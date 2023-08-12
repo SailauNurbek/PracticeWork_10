@@ -13,3 +13,18 @@ C:\Users\nurbe\source\repos\Module 10\Module 10\obj\Debug\net6.0\refint\Module 1
 C:\Users\nurbe\source\repos\Module 10\Module 10\obj\Debug\net6.0\Module 10.pdb
 C:\Users\nurbe\source\repos\Module 10\Module 10\obj\Debug\net6.0\Module 10.genruntimeconfig.cache
 C:\Users\nurbe\source\repos\Module 10\Module 10\obj\Debug\net6.0\ref\Module 10.dll
+E:\GitHUB_Repos\PracticeWork_10\Module 10\bin\Debug\net6.0\Module 10.exe
+E:\GitHUB_Repos\PracticeWork_10\Module 10\bin\Debug\net6.0\Module 10.deps.json
+E:\GitHUB_Repos\PracticeWork_10\Module 10\bin\Debug\net6.0\Module 10.runtimeconfig.json
+E:\GitHUB_Repos\PracticeWork_10\Module 10\bin\Debug\net6.0\Module 10.dll
+E:\GitHUB_Repos\PracticeWork_10\Module 10\bin\Debug\net6.0\Module 10.pdb
+E:\GitHUB_Repos\PracticeWork_10\Module 10\obj\Debug\net6.0\Module 10.csproj.AssemblyReference.cache
+E:\GitHUB_Repos\PracticeWork_10\Module 10\obj\Debug\net6.0\Module 10.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHUB_Repos\PracticeWork_10\Module 10\obj\Debug\net6.0\Module 10.AssemblyInfoInputs.cache
+E:\GitHUB_Repos\PracticeWork_10\Module 10\obj\Debug\net6.0\Module 10.AssemblyInfo.cs
+E:\GitHUB_Repos\PracticeWork_10\Module 10\obj\Debug\net6.0\Module 10.csproj.CoreCompileInputs.cache
+E:\GitHUB_Repos\PracticeWork_10\Module 10\obj\Debug\net6.0\Module 10.dll
+E:\GitHUB_Repos\PracticeWork_10\Module 10\obj\Debug\net6.0\refint\Module 10.dll
+E:\GitHUB_Repos\PracticeWork_10\Module 10\obj\Debug\net6.0\Module 10.pdb
+E:\GitHUB_Repos\PracticeWork_10\Module 10\obj\Debug\net6.0\Module 10.genruntimeconfig.cache
+E:\GitHUB_Repos\PracticeWork_10\Module 10\obj\Debug\net6.0\ref\Module 10.dll

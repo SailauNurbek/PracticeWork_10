@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nurbe\\source\\repos\\Module 10\\Module 10\\Module 10.csproj": {}
+    "E:\\GitHUB_Repos\\PracticeWork_10\\Module 10\\Module 10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nurbe\\source\\repos\\Module 10\\Module 10\\Module 10.csproj": {
+    "E:\\GitHUB_Repos\\PracticeWork_10\\Module 10\\Module 10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nurbe\\source\\repos\\Module 10\\Module 10\\Module 10.csproj",
+        "projectUniqueName": "E:\\GitHUB_Repos\\PracticeWork_10\\Module 10\\Module 10.csproj",
         "projectName": "Module 10",
-        "projectPath": "C:\\Users\\nurbe\\source\\repos\\Module 10\\Module 10\\Module 10.csproj",
+        "projectPath": "E:\\GitHUB_Repos\\PracticeWork_10\\Module 10\\Module 10.csproj",
         "packagesPath": "C:\\Users\\nurbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nurbe\\source\\repos\\Module 10\\Module 10\\obj\\",
+        "outputPath": "E:\\GitHUB_Repos\\PracticeWork_10\\Module 10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nurbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
